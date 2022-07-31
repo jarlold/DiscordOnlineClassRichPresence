@@ -30,8 +30,3 @@ Microsoft money to get one.
 ## Linux support
 You're smart, you'll figure it out.
 
-# Contact
-Discord: Jarlold#5943
-E-mail: jarlold@protonmail.com
-
-I'm always open to answering questions, except for in class ;)
